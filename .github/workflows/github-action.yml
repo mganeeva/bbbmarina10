@@ -24,4 +24,4 @@ jobs:
       - name: deploy-development
         run: echo "It is deployment for Development"
       - name: Sleep for 2 minutes, test
-        run: sleep 80
+        run: sleep 50
